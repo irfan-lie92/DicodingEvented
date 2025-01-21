@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">DicodingEvent</string>
+    <string name="home">Beranda</string>
+    <string name="upcoming">Mendatang</string>
+    <string name="finished">Selesai</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="dicoding_event">Dicoding Event</string>
+    <string name="upcoming_events">Kegiatan Mendatang</string>
+    <string name="finished_events">Kegiatan Selesai</string>
+    <!-- Strings used for fragments for navigation -->
+
+
+    <string name="daftar">Pendaftaran</string>
+    <string name="waktu_mulai">Waktu Mulai : </string>
+    <string name="description">Deskripsi :</string>
+    <string name="registrant">Sisa kuota : </string>
+    <string name="category">Kategori :</string>
+    <string name="gambar">gambar</string>
+    <string name="notification">notifikasi</string>
+    <string name="favorite">Favorit</string>
+    <string name="favorite_events">Acara Terfavorit</string>
+    <string name="settings">Pengaturan</string>
+    <string name="dark_mode">Mode Gelap\n</string>
+    <string name="daily_reminder">Pengingat Harian</string>
+    <string name="image_for_profile">Gambar Profil</string>
+</resources>
